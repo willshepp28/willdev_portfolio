@@ -92,6 +92,10 @@ a {
     color: #666;
 }
 
+.orangeBg {
+    background: #F48C16;
+}
+
 
 
 /* Body  */
@@ -116,7 +120,7 @@ header { z-index: 100; background: white;}
 
 .header2 {
 
-    background-color: rgba(0,128,225,0.9);
+    /* background-color: rgba(0,128,225,0.9); */
     color: white;
     z-index: 100;
     position: fixed;
