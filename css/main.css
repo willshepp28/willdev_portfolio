@@ -161,6 +161,11 @@ header { z-index: 100; background: white;}
     font-size: 22px;
 }
 
+
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+}
 .logo span {
     font-weight: 700;
 }
@@ -180,6 +185,8 @@ nav a:hover {
     text-decoration: underline;
 
 }
+
+
 
 
 
